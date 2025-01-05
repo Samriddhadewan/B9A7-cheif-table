@@ -1,0 +1,103 @@
+{
+    "recipes": [
+      {
+        "recipe_image": "chicken_curry.jpg",
+        "recipe_id": 1,
+        "recipe_name": "Chicken Curry",
+        "short_description": "A flavorful and spicy chicken curry perfect for dinner.",
+        "ingredients": [
+          "500 g chicken",
+          "200 g onions",
+          "100 g tomatoes",
+          "50 g ginger",
+          "30 g garlic",
+          "200 ml coconut milk",
+          "20 g curry powder"
+        ],
+        "preparing_time": "45 min",
+        "calories": "450 calories"
+      },
+      {
+        "recipe_image": "vegan_pasta.jpg",
+        "recipe_id": 2,
+        "recipe_name": "Vegan Pasta",
+        "short_description": "A healthy and delicious vegan pasta recipe.",
+        "ingredients": [
+          "250 g pasta",
+          "200 g cherry tomatoes",
+          "100 g spinach",
+          "50 g olives",
+          "30 ml olive oil",
+          "5 g garlic",
+          "20 g nutritional yeast"
+        ],
+        "preparing_time": "30 min",
+        "calories": "320 calories"
+      },
+      {
+        "recipe_image": "beef_stew.jpg",
+        "recipe_id": 3,
+        "recipe_name": "Beef Stew",
+        "short_description": "A hearty beef stew with vegetables and rich flavors.",
+        "ingredients": [
+          "500 g beef",
+          "200 g carrots",
+          "200 g potatoes",
+          "100 g onions",
+          "50 g celery",
+          "500 ml beef stock",
+          "20 g flour"
+        ],
+        "preparing_time": "90 min",
+        "calories": "500 calories"
+      },
+      {
+        "recipe_image": "pancakes.jpg",
+        "recipe_id": 4,
+        "recipe_name": "Classic Pancakes",
+        "short_description": "Fluffy pancakes perfect for a weekend breakfast.",
+        "ingredients": [
+          "200 g flour",
+          "50 g sugar",
+          "10 g baking powder",
+          "2 eggs",
+          "300 ml milk",
+          "50 g butter"
+        ],
+        "preparing_time": "20 min",
+        "calories": "280 calories"
+      },
+      {
+        "recipe_image": "caesar_salad.jpg",
+        "recipe_id": 5,
+        "recipe_name": "Caesar Salad",
+        "short_description": "A fresh Caesar salad with crunchy croutons and creamy dressing.",
+        "ingredients": [
+          "200 g lettuce",
+          "50 g croutons",
+          "30 g parmesan cheese",
+          "100 g chicken breast",
+          "50 ml Caesar dressing"
+        ],
+        "preparing_time": "15 min",
+        "calories": "230 calories"
+      },
+      {
+        "recipe_image": "brownies.jpg",
+        "recipe_id": 6,
+        "recipe_name": "Chocolate Brownies",
+        "short_description": "Rich and fudgy chocolate brownies that melt in your mouth.",
+        "ingredients": [
+          "200 g dark chocolate",
+          "100 g butter",
+          "150 g sugar",
+          "2 eggs",
+          "100 g flour",
+          "20 g cocoa powder"
+        ],
+        "preparing_time": "40 min",
+        "calories": "400 calories"
+      }
+    ]
+  }
+  
