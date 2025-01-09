@@ -7,7 +7,7 @@ const Header = () => {
             <nav className="flex justify-between items-center">
                 <h1 className="text-[#150B2B] text-4xl font-bold">Recipe Calories</h1>
                 <div>
-                    <ul className="flex gap-3 hidden md:inline-flex text-[#150B2BB3] ">
+                    <ul className="flex gap-5 hidden md:inline-flex text-[#150B2BB3] ">
                         <li>Home</li>
                         <li>Recipes</li>
                         <li>About</li>

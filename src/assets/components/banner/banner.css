@@ -1,0 +1,8 @@
+.background{
+    background: 
+    linear-gradient(to bottom, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 1)), /* Gradient */
+    url('../../photos/Rectangle 1.png');
+    background-size: cover;
+    border-radius:  20px;
+    background-position: center;
+}
